@@ -1,0 +1,108 @@
+#bodyb{
+    background: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size:1000%  ;
+}
+#s11{
+    background: url(https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg);
+    height: 300px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 260px;
+    left: 200px;
+}
+
+#i11{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 90px;
+   left: 550px;;
+   width: 500px;
+   word-wrap: break-word;
+}
+#s12{
+    background: url(https://quizswish.com/wp-content/uploads/2020/09/Malfoy-quiz-image.jpg);
+    height: 300px;
+    width: 300px;
+   background-position: center center;
+   background-size: 300px 300px;
+   background-repeat: no-repeat;
+   position: absolute;
+   top: 780px;
+   left: 200px;
+}
+
+#i12{
+    color: rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 90px;
+   left: 550px;;
+   width: 500px;
+   word-wrap: break-word;
+}
+#s13{
+    background: url(https://azzaezza.files.wordpress.com/2016/01/snape.jpg?w=300&h=300);
+    height: 300px;
+    width: 300px;
+   background-position: center center;
+   background-size: 300px 300px;
+   background-repeat: no-repeat;
+   position: absolute;
+   top: 1180px;
+   left: 200px;
+}
+
+#i13{
+    color: rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 90px;
+   left: 550px;;
+   width: 500px;
+   word-wrap: break-word;
+}
+#s14{
+    background: url(https://thecarnivoreproject.typepad.com/.a/6a00d8345295c269e201bb097c5e25970d-800wi);
+    height: 300px;
+    width: 300px;
+   background-position: center center;
+   background-size: 300px 300px;
+   background-repeat: no-repeat;
+   position: absolute;
+   top: 1680px;
+   left: 200px;
+}
+
+#i14{
+    color: rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 90px;
+   left: 550px;;
+   width: 500px;
+   word-wrap: break-word;
+}
+#SS{position: absolute;
+    top: 40px;
+    left: 100px;
+color: cornsilk;
+font-family: 'Architects Daughter', cursive;}
+.head1{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 15px;
+   left: 610px;;
+   width: 250px;
+   word-wrap: break-word;
+   font-family: 'Satisfy', cursive;
+   font-size: 30px;
+}
+.text{
+    font-family: 'Architects Daughter', cursive;
+}

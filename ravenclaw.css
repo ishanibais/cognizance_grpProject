@@ -1,0 +1,103 @@
+#s1{
+    background: url(https://i.pinimg.com/originals/19/fd/6a/19fd6a83ed638d2335f217bda19f80fc.jpg);
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 90px;
+    left: 200px;
+}
+#SS{position: absolute;
+    top: 40px;
+    left: 600px;
+color: cornsilk;
+font-family: 'Architects Daughter', cursive;}
+#s2{
+    background: url(https://images.ctfassets.net/usf1vwtuqyxm/t6GVMDanqSKGOKaCWi8oi/74b6816d9f913623419b98048ec87d25/LunaLovegood_WB_F5_LunaLovegoodPromoCloseUp_Promo_080615_Port.jpg?fm=jpg);
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 590px;
+    left: 200px;
+}
+#s3{
+    background: url(https://media.proprofs.com/images/QM/user_images/1748530/6632728986.jpg );
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 1090px;
+    left: 200px;
+}
+#s4{
+    background: url(https://pm1.narvii.com/6509/7c7bf9816b65701f239006169f5eaa5e567263a8_hq.jpg );
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 1590px;
+    left: 200px;
+}
+#i1{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width:450px;
+   word-wrap: break-word;
+}
+#i2{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}#i3{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}#i4{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}
+#bodyback{
+    background: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size:1000% ;
+    
+}
+.head{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 80px;
+   left: 550px;;
+   width: 250px;
+   word-wrap: break-word;
+   font-family: 'Satisfy', cursive;
+   font-size: 30px;
+}
+.text{
+    font-family: 'Architects Daughter', cursive;
+}

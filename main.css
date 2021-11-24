@@ -1,0 +1,70 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+#class{ position: absolute;
+top: 200px;
+left:56px; 
+}
+#harry{position: absolute;
+    top: 0px;
+    left: 600px;
+width:750;
+height: 100;
+}
+#hat{position: absolute;
+    top: 300px;
+    left: 600px;}
+#spell{position: absolute;
+    top: 150px;
+left: 1100px;}
+#d1{
+    position: absolute;
+top: 520px;
+left:160px; 
+color:rgba(236, 154, 99, 0.623)
+}
+#d2{
+    position: absolute;
+top: 520px;
+left:700px; 
+color:rgba(236, 154, 99, 0.623)
+}
+#d3{
+    position: absolute;
+top: 550px;
+left:1200px; 
+color:rgba(236, 154, 99, 0.623)
+}
+#ter{ font-family: 'Architects Daughter', cursive;
+color: rgb(7, 49, 104) ;
+animation: type 3s steps(34);}
+.sociallink {
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+:root {
+    font-size: 24px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+#icon{
+    height:35px;
+    width: 35px;
+    position: absolute;
+    bottom: 10px;
+    right: 50%;
+}
+#icon1{
+    height:35px;
+    width: 35px;
+    position: absolute;
+    bottom: 10px;
+    right: 46%;
+}
+

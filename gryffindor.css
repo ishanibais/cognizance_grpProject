@@ -1,0 +1,121 @@
+#SS{position: relative;
+    top: 40px;
+    left: 20px;
+color: cornsilk;
+font-family: 'Architects Daughter', cursive;}
+#s1{
+    background: url(https://api.time.com/wp-content/uploads/2014/07/301386_full1.jpg?w=800&quality=85 );
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 90px;
+    left: 200px;
+}
+#s2{
+    background: url(https://i.pinimg.com/736x/34/0c/30/340c3024611f99b0f1cf20733058d314.jpg );
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 490px;
+    left: 200px;
+}
+#s3{
+    background: url(https://images.ctfassets.net/usf1vwtuqyxm/4kRGmTOvVYmIwsOikwcuUw/b0851098837ddac5951a15ebc2ab82cf/Ron_Weasley_WB_F1_Ron_with_Scabbers_on_shoulder_00393692.jpg);
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 890px;
+    left: 200px;
+}
+#s4{
+    background: url(https://static.wikia.nocookie.net/hogwarts-life/images/7/75/AlbusDumbledore-003.jpg/revision/latest/top-crop/width/360/height/450?cb=20170109115706);
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 1290px;
+    left: 200px;
+}#s5{
+    background: url(https://img.republicworld.com/republic-prod/stories/images/15998216015f5b57210b7de.png);
+     height: 600px;
+     width: 300px;
+    background-position: center center;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 1690px;
+    left: 200px;
+}
+#i1{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 350px;;
+   width:650px;
+   word-wrap: break-word;
+}
+#i2{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}#i3{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}#i4{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}#i5{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 150px;
+   left: 450px;;
+   width: 450px;
+   word-wrap: break-word;
+}
+#bodyback{
+    background: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size:1000% ;
+    
+}
+.head{
+    color:  rgb(223, 211, 195);
+    text-align: center;
+   position: absolute;
+   top: 80px;
+   left: 550px;;
+   width: 250px;
+   word-wrap: break-word;
+   font-family: 'Satisfy', cursive;
+   font-size: 30px;
+}
+.text{
+    font-family: 'Architects Daughter', cursive;
+}

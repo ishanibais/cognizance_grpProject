@@ -1,0 +1,6 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+div { width: 50%; height: 50%; float: left; }
+#div1 { background: url(https://i.pinimg.com/originals/55/0a/c9/550ac9839fc15a1b99b4ef3bed3bb5e4.gif); background-repeat:no-repeat;background-position:center center;background-size: 50%;}
+#div2 { background: url(https://media2.giphy.com/media/PMp40oEvNfKve/giphy.gif) ; background-repeat:no-repeat;background-position:center center;background-size: 50%;}
+#div3 { background: url(https://media1.tenor.com/images/463b937ae9dccedb1e807c69406a59cb/tenor.gif?itemid=4932529); background-repeat:no-repeat;background-position:center center;background-size: 50%; }
+#div4 { background: url(https://static1.squarespace.com/static/5b5140beee1759d33c67689a/5bce6cb2f9619a0ebc07462e/5d43bba7b35bf00001949692/1564761636295/ravenclaw.gif?format=1500w); background-repeat:no-repeat;background-position:center center;background-size: 50%; }
